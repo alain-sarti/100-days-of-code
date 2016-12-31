@@ -12,7 +12,7 @@
 
 ### Day 2: December 31th, Saturday
 
-**Today's Progress**: The App can show a notification, but I can't play an Alarm sound. Have to investigate why that is.
+**Today's Progress**: The App can show a notification, and it can also play a sound. Need to add a way to stop it tomorrow ;)
 
 **Thoughts** Showing local notifications is really a lot easier than I thought it would be ;)
 
