@@ -20,3 +20,12 @@
 1. [Gist I looked at to start with notifications](https://gist.github.com/BrandonSmith/6679223)
 2. [Stackoverflow question I looked at to play a sound](http://stackoverflow.com/questions/24766775/android-get-default-or-currently-set-alarm-sound-tone)
 3. [Android SDK Dokumentation for exact AlarmManager settings](https://developer.android.com/reference/android/app/AlarmManager.html#setExact(int, long, android.app.PendingIntent))
+
+### Day 3: January 1st, Sunday
+
+**Today's Progress**: It took a little bit longer to be able to stop the alarm sound. But I got it fixed, a Singleton Pattern for access to the Ringtone was the answer.
+
+**Thoughts** I definately need to structure the app way better. But I like the approach so far, to build it in stages.
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
