@@ -29,3 +29,13 @@
 
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+
+### Day 4: January 2nd, Monday
+
+**Today's Progress**: I did a lot of trial and error today. But I finally got what I wanted to work. The app will now start it's stop activity even if the device is locked. Tomorrow I'll add the function of closing the activity after stopping the alarm.
+
+**Thoughts** Sometimes things can be really easy ... if you knew what to lock for ;)
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [Stackoverflow question for showing an activity on a locked screen](http://stackoverflow.com/questions/19003568/android-galaxy-s4-activity-that-is-visible-over-lock-screen?rq=1)
