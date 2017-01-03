@@ -39,3 +39,14 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [Stackoverflow question for showing an activity on a locked screen](http://stackoverflow.com/questions/19003568/android-galaxy-s4-activity-that-is-visible-over-lock-screen?rq=1)
+
+### Day 5: January 3rd, Tuesday
+
+**Today's Progress**: Allright, ready for the first night test. Added the input fields. Stoping the Alarm also closes the activity. The alarm also plays if the phone is set to vibrate.
+
+**Thoughts** It's sometimes rather scary, what you can do with your app like declaring the sound you play to be an alarm and therefore ignoring the user's settings.
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [Stackoverflow question for playing an alarm tone if phone is silent](http://stackoverflow.com/questions/24306284/want-to-play-the-ringtone-in-vibration-mode)
+3. [Android Support Blog announcing interesting material design additions](https://android-developers.googleblog.com/2015/05/android-design-support-library.html)
