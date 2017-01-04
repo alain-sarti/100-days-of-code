@@ -50,3 +50,13 @@
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [Stackoverflow question for playing an alarm tone if phone is silent](http://stackoverflow.com/questions/24306284/want-to-play-the-ringtone-in-vibration-mode)
 3. [Android Support Blog announcing interesting material design additions](https://android-developers.googleblog.com/2015/05/android-design-support-library.html)
+
+### Day 6: January 4th, Wednesday
+
+**Today's Progress**: I was woken up by my app :) Today was a slow day, I therefore started the second app, but there is nothing really to see, yet.
+
+**Thoughts** Tomorrow will be my day off for the week.
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
