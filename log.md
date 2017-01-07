@@ -70,3 +70,13 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+
+### Day 8: January 7th, Saturday
+
+**Today's Progress**: I added the display of a notification to show the intended alarm time. But I couldn't quite figure out how to cancel the alarm on a click on the notification. Maybe it's the time ;)
+
+**Thoughts** I will have to look how an alarm app can distinguish between different alarms and shut them down ...
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
