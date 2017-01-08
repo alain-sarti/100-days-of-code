@@ -80,3 +80,14 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+
+### Day 9: January 9th, Sunday
+
+**Today's Progress**: Added the cancellation feature on notification click. I also wrote a little blog post entry for ionic 2 I18n support.
+
+**Thoughts** I'm getting used to coding everyday. Let's see how long that will last :D
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [Blog Post I18n in ionic2 apps](http://technophilia.de/2017/01/08/adding-i18n-support-on-an-ionic-2-app/)
