@@ -91,3 +91,13 @@
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [Blog Post I18n in ionic2 apps](http://technophilia.de/2017/01/08/adding-i18n-support-on-an-ionic-2-app/)
+
+### Day 10: January 10th, Monday
+
+**Today's Progress**: Worked on the Helper Droid App. But nothing substantial, just some progress.
+
+**Thoughts** _blank ^_^
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
