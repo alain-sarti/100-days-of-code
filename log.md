@@ -101,3 +101,13 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+
+### Day 11: January 11th, Tuesday
+
+**Today's Progress**: Worked on the Helper Droid App. Pouch DB support is coming tomorrow. Today, just a little ui.
+
+**Thoughts** _blank ^_^
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
