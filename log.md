@@ -141,3 +141,13 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+
+### Day 15: January 15th, Sunday
+
+**Today's Progress**: Worked on the Helper Droid App. The damage tracker part is finished. I have to think about new features to add to the app ;) Or maybe I should finally add some tests.
+
+**Thoughts** this cold I'm having is rather persistent. But hey, a little bit of coding doesn't hurt too much, now does it ;)
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
