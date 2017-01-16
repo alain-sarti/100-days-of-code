@@ -151,3 +151,14 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+
+### Day 16: January 16th, Monday
+
+**Today's Progress**: Today there is only an intermediate state. I tried different things out regarding unit tests. But a lot of those didn't work out, so nothing much to show.
+
+**Thoughts** Preparing the unit tests is not that easy ...
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [Unit Testing ionic 2](http://lathonez.github.io/2017/ionic-2-unit-testing/)
