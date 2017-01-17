@@ -162,3 +162,13 @@
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [Unit Testing ionic 2](http://lathonez.github.io/2017/ionic-2-unit-testing/)
+
+### Day 17: January 17th, Tuesday
+
+**Today's Progress**: I finished the first test and I understand the procedure now. The problem is: that test is just superficial. I need to mock the hell out of everything. Which sucks.
+
+**Thoughts** Mocking is super strong, but you have to wrap your head around it.
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
