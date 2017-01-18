@@ -172,3 +172,13 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+
+### Day 18: January 18th, Wednesday
+
+**Today's Progress**: Translationpipe is working for the tests. But I still need to figure out how to test a value which is set in a function calling a promise but not returning a promise itself.
+
+**Thoughts** Promises are the bane of my thinking. Right up to the point where they work and after that it's a blast :D
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
