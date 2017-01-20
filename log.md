@@ -182,3 +182,13 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+
+### Day 19: January 20th, Friday
+
+**Today's Progress**: Changed a bit of the code and got all the necessary tests working for the settings page. Now I need to dive more into mocking and end2end testing.
+
+**Thoughts** Testing is just so immensely powerful, but also sometimes cumbersome. Especially for a small project like this one. And after last night's rpg session, I have a new idea for another RPG companion app ;)
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
