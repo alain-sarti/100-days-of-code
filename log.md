@@ -192,3 +192,14 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+
+### Day 20: January 21st, Saturday
+
+**Today's Progress**: End2End testing implemented. At least in theory (the end2end tests are working, but I don't have enough / all test cases, yet).
+
+**Thoughts** End2End tests were quite easy to implement. I now have to dive deeper into protractor and it's capabilities.
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [Blog entry for end2end testing](http://lathonez.github.io/2017/ionic-2-e2e-testing/)
