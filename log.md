@@ -203,3 +203,13 @@
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [Blog entry for end2end testing](http://lathonez.github.io/2017/ionic-2-e2e-testing/)
+
+### Day 21: January 22nd, Sunday
+
+**Today's Progress**: I added more e2e tests. I had to read up on protractor more. That's quite the powerful tool!
+
+**Thoughts** I now see the merrits of tdd ;)
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
