@@ -213,3 +213,14 @@
 **Link(s) to work**
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+
+### Day 22: January 23rd, Monday
+
+**Today's Progress**: I started another rpg related project: 13th Age Helper Daemon. I'm playing a chaos mage and always using the books is quite the hassle. So I'm starting a little app to help me organize around that. And this time, I start with the tests ;)
+
+**Thoughts** Protractor and ionic 2 need to be closer integrated. For example the finde by.binding doesn't work :/
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
