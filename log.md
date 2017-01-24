@@ -224,3 +224,14 @@
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+
+### Day 23: January 24th, Tuesday
+
+**Today's Progress**: The test setup for the new app is ready and I also started a test, but I cannot run any unit tests anymore. I raised an issue with the original author, so not too much progress for today.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
