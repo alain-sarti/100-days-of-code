@@ -290,3 +290,14 @@
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+
+### Day 29: January 31st, Tuesday
+
+**Today's Progress**: Fixed the faulty test (if you want the spied on function to do it's job, you HAVE to add .and.callThrough()). Added more tests and therefore more functionality.
+
+**Thoughts** Happy ;)
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
