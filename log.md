@@ -389,3 +389,14 @@
 1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+
+### Day 38: February 11th, Saturday
+
+**Today's Progress**: Tweaked the config files and deployed the 13th age Helper Daemon on my iPad. And to get started in something completely new, I began to learn Erlang ^_^
+
+**Thoughts** Erlang was not on my radar of things to learn for a long time, but now I feel I need to learn a paradigm shift.
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
