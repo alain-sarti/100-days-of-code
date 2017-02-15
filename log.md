@@ -434,3 +434,15 @@
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
 4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+
+### Day 42: February 15th, Wednesday
+
+**Today's Progress**: Okay, all the 'basics' are there. Next chapter: errors.
+
+**Thoughts** I'm slowly getting the hang of it ... looking forward to an idea I can use a simple Erlang tool in connection with my new Amazon Echo Dot ^_^
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
