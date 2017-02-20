@@ -459,9 +459,21 @@
 3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
 4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
 
-### Day 44: February 18th, Sunday
+### Day 44: February 19th, Sunday
 
 **Today's Progress**: I switched to clojure, because a very interesting OpenSource project caught my eye and I want to contribute to it.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+
+### Day 45: February 20th, Monday
+
+**Today's Progress**: Some work on the 13th age Helper Daemon (expanded the character service).
 
 **Thoughts** 
 
