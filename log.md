@@ -530,3 +530,15 @@
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
 4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+
+### Day 50: February 26th, Sunday
+
+**Today's Progress**: Halftime! *woohoo* Loading characters is done. Had some problems with alerts, need to investigate that a bit.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
