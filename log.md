@@ -542,3 +542,15 @@
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
 4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+
+### Day 51: February 28th, Tuesday
+
+**Today's Progress**: After taking a sick day, yesterday, I did some more clojure learning. But nothing much to show, I'm afraid.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
