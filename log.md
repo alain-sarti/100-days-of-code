@@ -590,3 +590,29 @@
 2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
 3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
 4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+
+### Day 55: March 4th, Saturday
+
+**Today's Progress**: Following the clojure rabbit into the hole :D
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
+
+### Day 56: March 5th, Sunday
+
+**Today's Progress**: More clojure learning ... it get's a bit complicated and using the IntelliJ Idea Add-on is sometimes counter intuitive for me.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
