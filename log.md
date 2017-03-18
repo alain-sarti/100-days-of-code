@@ -742,3 +742,33 @@
 5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
 6. [FWPD](https://github.com/alain-sarti/fwpd)
 7. [Android Cookie Test](https://github.com/alain-sarti/cookieandroidtest)
+
+### Day 66: March 17th, Friday
+
+**Today's Progress**: Started to fix some bugs on the 13th age app, after using it. But I don't have an internet access at the moment :/
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
+6. [FWPD](https://github.com/alain-sarti/fwpd)
+7. [Android Cookie Test](https://github.com/alain-sarti/cookieandroidtest)
+
+### Day 67: March 18th, Saturday
+
+**Today's Progress**: More bugfixes, still some left :/
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
+6. [FWPD](https://github.com/alain-sarti/fwpd)
+7. [Android Cookie Test](https://github.com/alain-sarti/cookieandroidtest)
