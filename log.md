@@ -817,3 +817,18 @@
 5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
 6. [FWPD](https://github.com/alain-sarti/fwpd)
 7. [Android Cookie Test](https://github.com/alain-sarti/cookieandroidtest)
+
+### Day 71: March 23rd, Thursday
+
+**Today's Progress**: Switched back to the beginning and did some small fixes and refactoring of my Android app. I'll spend a bit of time there.
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
+6. [FWPD](https://github.com/alain-sarti/fwpd)
+7. [Android Cookie Test](https://github.com/alain-sarti/cookieandroidtest)
