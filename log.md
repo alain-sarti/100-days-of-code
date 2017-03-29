@@ -892,3 +892,18 @@
 5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
 6. [FWPD](https://github.com/alain-sarti/fwpd)
 7. [Let me Sleep Alarm (Kotlin)](https://github.com/alain-sarti/letmesleep)
+
+### Day 76: March 29th, Wednesday
+
+**Today's Progress**: The Alarm App should now work while in idle mode (can't test it due to missing USB cable :/ ). Started to convert the logic to the job lib from the folks from evernote.
+
+**Thoughts**:
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
+6. [FWPD](https://github.com/alain-sarti/fwpd)
+7. [Let me Sleep Alarm (Kotlin)](https://github.com/alain-sarti/letmesleep)
