@@ -967,3 +967,18 @@
 5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
 6. [FWPD](https://github.com/alain-sarti/fwpd)
 7. [Let me Sleep Alarm (Kotlin)](https://github.com/alain-sarti/letmesleep)
+
+### Day 81: April 3rd, Monday
+
+**Today's Progress**: Added more tests. Tried to add page tests, but that didn't work ... I need to investigate further why that is.
+
+**Thoughts**:
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
+6. [FWPD](https://github.com/alain-sarti/fwpd)
+7. [Let me Sleep Alarm (Kotlin)](https://github.com/alain-sarti/letmesleep)
