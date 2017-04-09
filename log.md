@@ -1042,3 +1042,18 @@
 5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
 6. [FWPD](https://github.com/alain-sarti/fwpd)
 7. [Let me Sleep Alarm (Kotlin)](https://github.com/alain-sarti/letmesleep)
+
+### Day 86: April 9th, Sunday
+
+**Today's Progress**: The main activity got a small overhaul, nothing much. I need to think more about the UI before implementation, I guess.
+
+**Thoughts**: The UI of an app is so important, yet too little time is often put into it. But then there is also the problem of learning of better UI/UX.
+
+**Link(s) to work**
+1. [Let me Sleep Alarm](https://github.com/alain-sarti/letmesleepalarm)
+2. [SWRPG Helper Droid](https://github.com/alain-sarti/swrpgHelperDroid/)
+3. [13th age Helper Daemon](https://github.com/alain-sarti/13thageHelperDaemon)
+4. [Learnmesomeerlang](https://github.com/alain-sarti/Learnmesomeerlang)
+5. [Clojure-Noob](https://github.com/alain-sarti/clojure-noob)
+6. [FWPD](https://github.com/alain-sarti/fwpd)
+7. [Let me Sleep Alarm (Kotlin)](https://github.com/alain-sarti/letmesleep)
